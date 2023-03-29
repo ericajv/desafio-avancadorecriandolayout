@@ -1,0 +1,106 @@
+body {
+  align-items: center;
+  background: #2C2B3D;
+  margin: auto;
+  color: rgba(194, 194, 194, 1);
+
+
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 101px;
+  padding-left: 99px;
+
+}
+
+ul {
+  display: flex;
+
+}
+
+a {
+  margin: 64px;
+  text-decoration: none;
+  list-style: none;
+  font-family: 'JetBrains Mono', monospace;
+  color: rgba(194, 194, 194, 1);
+}
+
+a :hover {
+  color: #00BFA6;
+}
+
+main {
+  padding-left: 99px;
+  justify-content: space-between;
+  display: flex;
+  text-align: center;
+  width: 1092px;
+  height: 283px;
+  margin-bottom: 157px;
+
+}
+
+.section h1 {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: medium;
+  font-size: 36px;
+  line-height: 40px;
+  color: rgba(255, 255, 255, 1);
+
+}
+
+.section span {
+  color: #00BFA6;
+
+}
+
+.section p {
+
+  width: 604px;
+  font-family: 'Open Sans', sans-serif;
+
+
+}
+
+footer {
+  text-align: center;
+  margin-bottom: 23px;
+
+
+  font-family: 'JetBrains Mono', monospace;
+
+  font-size: 14px;
+  line-height: 28px;
+
+
+
+}
+
+#insta {
+  margin: 5px;
+}
+
+#inta a :hover {
+  color: #00BFA6;
+}
+
+#line {
+  border: 1px solid #00BFA6;
+  width: 568px;
+  margin-bottom: 27px;
+  margin-left: auto;
+  margin-right: auto;
+
+
+
+}
+
+#cadeado {
+  position: fixed;
+  left: 0px;
+  bottom: 0px;
+
+}
